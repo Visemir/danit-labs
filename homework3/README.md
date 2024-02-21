@@ -19,7 +19,7 @@ user.
 
 Install "nginx". 
 
-![screenshot 4] (https://github.com/Visemir/danit-labs/blob/main/homework3/installnginx.jpg)
+![screenshot 4](https://github.com/Visemir/danit-labs/blob/main/homework3/installnginx.jpg)
 
 Check if nginx is running. 
 
@@ -27,7 +27,7 @@ Check if nginx is running.
 
 Use netstat to see which ports are open. 
 
-![screenshot 6] (https://github.com/Visemir/danit-labs/blob/main/homework3/statusport.jpg)
+![screenshot 6](https://github.com/Visemir/danit-labs/blob/main/homework3/statusport.jpg)
 
 
 Submit the result of your work to your GitHub repository, then add a link to the
