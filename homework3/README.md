@@ -1,8 +1,12 @@
 Create a user named "bob". 
+
 ![screenshot 1](https://github.com/Visemir/danit-labs/blob/main/homework3/adduser.jpg)
+
 Add the created user to the sudo group (so that they can run commands as an
 administrator). 
+
 ![screenshot 2](https://github.com/Visemir/danit-labs/blob/main/homework3/adduserandsudo.jpg)
+
 Create a script in the /home/bob/ directory that, when executed, will change the 
 hostname to "ubuntu22". The script's execution attributes should be set exclusively for the user "bob". [script ](https://github.com/Visemir/danit-labs/blob/main/homework3/change_hostname.sh)
 Run the script. Reboot the system. Log into the system as the "bob"
