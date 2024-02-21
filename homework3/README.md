@@ -10,7 +10,7 @@ administrator).
 Create a script in the /home/bob/ directory that, when executed, will change the 
 hostname to "ubuntu22". The script's execution attributes should be set exclusively for the user "bob". 
 
-![script ](https://github.com/Visemir/danit-labs/blob/main/homework3/change_hostname.sh)
+[script ](https://github.com/Visemir/danit-labs/blob/main/homework3/change_hostname.sh)
 
 Run the script. Reboot the system. Log into the system as the "bob"
 user. 
