@@ -1,5 +1,4 @@
-Create a user named "bob". 
-![screenshot 1](https://github.com/Visemir/danit-labs/blob/main/homework3/adduser.jpg)
+Create a user named "bob". ![screenshot 1](https://github.com/Visemir/danit-labs/blob/main/homework3/adduser.jpg)
 Add the created user to the sudo group (so that they can run commands as an
 administrator). [screenshot 2](https://github.com/Visemir/danit-labs/blob/main/homework3/adduserandsudo.jpg)
 Create a script in the /home/bob/ directory that, when executed, will change the 
