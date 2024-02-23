@@ -6,8 +6,18 @@ The script generates a random number between 1 and 100 and stores it in a variab
 ![Скрін роботи](https://github.com/Visemir/danit-labs/blob/main/homework4/random-num.jpg)
 
 Create user john with home folder at default path.
+Install and configure an SSH server listening on port 2222, restricting root access and disallowing password authorization. Only john can connect to your server and only with an ssh key.
 ![](https://github.com/Visemir/danit-labs/blob/main/homework4/johnsshd.jpg)
 
-Install and configure an SSH server listening on port 2222, restricting root access and disallowing password authorization. Only john can connect to your server and only with an ssh key.
+In parallel, run ssh in debug mode listening on port 3333, with no user connection restrictions (except root), with the ability to connect by password and ssh key.
+
 ![](https://github.com/Visemir/danit-labs/blob/main/homework4/newsshd.jpg)
+
+Try connecting to your servers.
+
+![](https://github.com/Visemir/danit-labs/blob/main/homework4/newsshd2.jpg)
+
+Check the status of both your ssh servers.
+
+![](https://github.com/Visemir/danit-labs/blob/main/homework4/status.jpg)
 
