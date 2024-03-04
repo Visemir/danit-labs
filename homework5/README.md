@@ -15,6 +15,7 @@ Create Home Directories:
 Create home directories for each developer in the "/home" directory.
 
 ![](https://github.com/Visemir/danit-labs/blob/main/homework5/dir.jpg)
+![](https://github.com/Visemir/danit-labs/blob/main/homework5/chowngroup.jpg)
 
 Clone a User Account:
 Create a new user "backupdev" and clone the home directory of "dev1" for this user.
