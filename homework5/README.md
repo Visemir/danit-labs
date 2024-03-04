@@ -37,7 +37,7 @@ Write a [script](https://github.com/Visemir/danit-labs/blob/main/homework5/disk_
 
 it will write a warning message to the log file /var/log/disk.log.
 
-https://github.com/Visemir/danit-labs/blob/main/homework5/disklog.jpg
+![](https://github.com/Visemir/danit-labs/blob/main/homework5/disklog.jpg)
 
 Task 3: Monit Configuration for Nginx Monitoring
 Create [configuration](https://github.com/Visemir/danit-labs/blob/main/homework5/nginx) of Monit for monitoring nginx service. Monitoring should check if the service is available on port 80 of the local host. If the service is still not available after seven checks, the monit stops restart attempts.
