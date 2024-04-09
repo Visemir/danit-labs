@@ -6,5 +6,5 @@ If the user's guess is incorrect, the program should provide feedback like "Too 
 The user should have a maximum of 5 attempts to guess the correct number. 
 After 5 incorrect attempts, the program should print "Sorry, you've run out of attempts. 
 The correct number was [the correct number]" and exit.
-![]([https://github.com/Visemir/danit-labs/blob/main/homework8/randomdanit.py](https://github.com/Visemir/danit-labs/blob/main/homework8/pythonrandom.jpg))
+![](https://github.com/Visemir/danit-labs/blob/main/homework8/pythonrandom.jpg)
 
