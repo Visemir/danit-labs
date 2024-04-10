@@ -7,4 +7,5 @@ Output the number of letters in the alphabet.
 Check if the letter 'F' belongs to the English alphabet.
 Check if the letter 'Щ' belongs to the English alphabet.
 Output an example text in English.
+
 ![](https://github.com/Visemir/danit-labs/blob/main/homework9/Alphabet.jpg)
