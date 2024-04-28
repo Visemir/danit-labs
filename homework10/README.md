@@ -1,6 +1,7 @@
 PART 1: Develop a REST API
 Develop a REST API for student management in Python using the Flask library named [app.py](https://github.com/Visemir/danit-labs/blob/main/homework10/app.py), with data persistence in a students.csv file. 
 The API should support GET, POST, PUT, PATCH, and DELETE requests. Each student should have fields for id, first name, last name, and age.
+
 ![](https://github.com/Visemir/danit-labs/blob/main/homework10/web1.jpg)
 ![](https://github.com/Visemir/danit-labs/blob/main/homework10/web2.jpg)
 ![](https://github.com/Visemir/danit-labs/blob/main/homework10/web3.jpg)
@@ -11,6 +12,7 @@ Create a [test_requests.py](https://github.com/Visemir/danit-labs/blob/main/home
 
 Retrieve all existing students (GET).
 Create three students (POST).
+
 ![](https://github.com/Visemir/danit-labs/blob/main/homework10/test1.jpg)
 
 Retrieve information about all existing students (GET).
