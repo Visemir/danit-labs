@@ -3,7 +3,9 @@ Develop a REST API for student management in Python using the Flask library name
 The API should support GET, POST, PUT, PATCH, and DELETE requests. Each student should have fields for id, first name, last name, and age.
 
 ![](https://github.com/Visemir/danit-labs/blob/main/homework10/web1.jpg)
+
 ![](https://github.com/Visemir/danit-labs/blob/main/homework10/web2.jpg)
+
 ![](https://github.com/Visemir/danit-labs/blob/main/homework10/web3.jpg)
 
 PART 2: Create test_requests.py
