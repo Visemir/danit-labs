@@ -5,7 +5,7 @@ Create Dockerfile for REST API from HOMEWORK 10. You need to select gunicorn as 
 Part 2
 Build image from your Dockerfile, run the container with docker run command and demonstrate the functionality of the image by making a request (get, post, put - on your choice) with Postman to the container.
 
-As a result, you should push your REST API, requirements.txt, Dockerfile, .dockerignore and screenshots of Postman query execution.
+As a [result](https://github.com/Visemir/danit-labs/tree/main/homework11/qundock), you should push your REST API, requirements.txt, Dockerfile, .dockerignore and screenshots of Postman query execution.
 
 ![](https://github.com/Visemir/danit-labs/blob/main/homework11/docker-build.jpg)
 
