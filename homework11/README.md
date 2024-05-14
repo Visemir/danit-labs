@@ -10,3 +10,5 @@ As a result, you should push your REST API, requirements.txt, Dockerfile, .docke
 ![](https://github.com/Visemir/danit-labs/blob/main/homework11/docker-build.jpg)
 
 ![](https://github.com/Visemir/danit-labs/blob/main/homework11/postmanget.jpg)
+![](https://github.com/Visemir/danit-labs/blob/main/homework11/postmanpost.jpg)
+![](https://github.com/Visemir/danit-labs/blob/main/homework11/postmanput.jpg)
